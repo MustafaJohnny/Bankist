@@ -1,4 +1,4 @@
-# Bankist - Frontend Project
+# Bankist - Frontend Practical Project
 
 ## Overview
 Really interesting and useful banking application. The app simply simulates how online banking works and which core features should any banking application have. This app was a practical project and I built it together with the instructor, throughout The Complete JavaScript Course 2021 on Udemy.
